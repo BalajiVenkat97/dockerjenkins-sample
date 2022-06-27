@@ -35,7 +35,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>dockerjenkind-sample01</finalName>
+    <finalName>dockerjenkins-sample01</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
